@@ -1,0 +1,24 @@
+h2 {
+  color: #86b300
+
+}
+
+a:hover, h1:hover, h2:hover {
+  color: #86b300
+
+}
+
+h1, h2, h3, h4, a, p, img {
+  text-align:center;
+}
+
+id:"links"{
+    display: table;
+    width: 100%;
+}
+.line
+{
+    display: table-cell;
+    color: black;
+    background: #ffffff;
+}
